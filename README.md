@@ -3,13 +3,13 @@
 
 -  Node_modules can be installed using package.json
 
-- Download CLI for Heroku, then use 'heroku login' in terminal
+- Download CLI for Heroku "https://devcenter.heroku.com/articles/heroku-cli", then use 'heroku login' in terminal
 
 - node/npm/git --version (version check for each)
 
 - Prepare app (listen on  local || process.env.PORT) 
 
-- Make file 'Procfile' in the project folder, write 'web: node app.js'
+- Make file 'Procfile' in the project folder, write 'web: node app.js' (since it is a nodejs based app)
 
 - Use 'git init' (can make you sign in up GitHub email and username)
 

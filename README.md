@@ -22,8 +22,9 @@
 - Use 'git push heroku master' (takes time, will upload files on Heroku
 server)
 
-- Reload the Website it will run, signup and see Mailchimp's audience dashboard
- ('heroku logs' to check errors during the process if any)
+- Reload the Website it will run, signup and see Mailchimp's audience dashboard where you will see all the email addresses of people who has signed up
+ 
+- Use 'heroku logs' (to check errors during the process if any) 
 
 - For changes to be made:
 

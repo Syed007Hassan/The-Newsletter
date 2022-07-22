@@ -1,0 +1,18 @@
+- heroku.com
+- NodeJs
+- Download CLI for heroku
+- ' heroku login ' (on terminal)
+- node/npm/git --version (version check for each)
+- Prepare app (listen on  local || process.env.PORT) 
+- Make file 'Procfile' in project folder, write 'web: node app.js'
+- ' git init ' (can make you sign in up github email and username)
+- ' git add . '
+- ' git commit -m "first commit" ' (All files gets commited)
+- ' heroku create ' (must logged in, a link will be generated)
+- ' git push heroku master ' (takes time, will upload files on heroku server)
+-  Reload Website it will run, signup and see mailchimp ('heroku logs' 
+  to check errors)
+- For changes to push:
+- ' git add . '
+- ' git commit -m "changes made" '
+- ' git push heroku master '  
